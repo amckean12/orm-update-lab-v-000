@@ -51,6 +51,6 @@ end
 
 def self.create
   Student.new
-end 
+end
 
 end
