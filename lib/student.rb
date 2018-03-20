@@ -50,6 +50,7 @@ def update
 end
 
 def self.create
+  Student.new
 end 
 
 end
